@@ -4,4 +4,4 @@ The project consists of a radar system that is controlled by a Tiva TM4C1294NCPD
 
 <img src="https://github.com/user-attachments/assets/cc7227a6-610a-4ada-be43-ddb6e014c250" width="500" />
 
-Image of completed ultrasonic radar:
+Image of completed ultrasonic radar.
